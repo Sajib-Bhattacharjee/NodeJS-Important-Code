@@ -1,0 +1,20 @@
+{
+  "name": "lesson8",
+  "version": "1.0.0",
+  "description": "Learning node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Learning",
+    "beignner",
+    "to",
+    "advanced"
+  ],
+  "author": "Sajib Bhattacharjee",
+  "license": "ISC",
+  "dependencies": {
+    "random-movie-names": "^1.0.2"
+  }
+}
